@@ -1,8 +1,6 @@
-## BizMDA（模型驱动的商业应用构建平台）
+## BizMDA
 
-You can use the [editor on GitHub](https://github.com/szhengye/BizMDA.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+BizMDA是一个基于模型驱动架构的商业应用开发平台，支持多种开发框架，通过数据建模、视图建模、服务建模、菜单建模等针对商业应用的建模，来快速支持WEB应用、APP应用和小程序的开发。
 
 ### Markdown
 
