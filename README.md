@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## BizMDA（模型驱动的商业应用构建平台）
 
 You can use the [editor on GitHub](https://github.com/szhengye/BizMDA.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
