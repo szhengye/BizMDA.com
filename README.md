@@ -13,26 +13,18 @@ BizMDA是一个基于模型驱动架构的商业应用开发平台，支持多�
 ### 安装
 1. 从[BizMDA](https://github.com/szhengye/BizMDA)中Clone下载项目源码；
 2. 在Eclipse或IDEA中作为MAVEN项目导入；
-3. 将“modal/mda.yml”中关于生成代码文件和资源文件的目录，设置成你要输出的目录：
+3. 设置```modal/mda.yml```中代码和资源文件输出目录：
 ```markdown
-#代码作者名
-author: Steven
-#代码作者邮箱
-email: steven@bizmda.com
-#版本号
-version: V1.0
-#生成代码所属java包名
-packageName: com.bizmda
-#生成代码文件所在目录
-sourcePath: `tmp/src`
-#生成资源文件所在目录
-resourcePath: ```tmp/resource```
-#生成代码所用的模板名
-template: Jeecg-Boot
+sourcePath: tmp/src
+resourcePath: tmp/resource
 ```
-4. 运行src/com/bizmda/CodeGen.java；
+4. 运行```src/com/bizmda/CodeGen.java```；
 5. 你可以在你所设置的代码和资源文档输出目录中，看到生成的代码和资源文档。
 6. 把生成的代码和资源文件，按要求放到对应应用框架的指定目录中，启动应用框架即可。
+### 支持开发框架（脚手架）
+1. JeeCG-Boot快速开发框架：Jeecg-boot 是一款基于代码生成器的智能开发平台! 采用前后端分离技术:SpringBoot，Mybatis-plus，Shiro，JWT，Vue & Ant Design。
+
+不断更新中...
 
 ### 开发文档
 
