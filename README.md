@@ -21,6 +21,7 @@ resourcePath: tmp/resource
 4. 运行```src/com/bizmda/CodeGen.java```；
 5. 你可以在你所设置的代码和资源文档输出目录中，看到生成的代码和资源文档。
 6. 把生成的代码和资源文件，按要求放到对应应用框架的指定目录中，启动应用框架即可。
+
 ### 支持开发框架（脚手架）
 1. JeeCG-Boot快速开发框架：Jeecg-boot 是一款基于代码生成器的智能开发平台! 采用前后端分离技术:SpringBoot，Mybatis-plus，Shiro，JWT，Vue & Ant Design。
 
