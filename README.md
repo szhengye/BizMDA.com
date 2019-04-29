@@ -24,9 +24,9 @@ version: V1.0
 #生成代码所属java包名
 packageName: com.bizmda
 #生成代码文件所在目录
-sourcePath: tmp/src
+sourcePath: `tmp/src`
 #生成资源文件所在目录
-resourcePath: tmp/resource
+resourcePath: ```tmp/resource```
 #生成代码所用的模板名
 template: Jeecg-Boot
 ```
@@ -36,4 +36,4 @@ template: Jeecg-Boot
 
 ### 开发文档
 
-针对BizMDA平台的使用，请参见相关[开发文档] (https://bizmda.gitbook.io/bizmda/)。
+针对BizMDA平台的使用，请参见相关[开发文档](https://bizmda.gitbook.io/bizmda/)。
